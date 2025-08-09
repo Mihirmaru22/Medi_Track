@@ -99,4 +99,4 @@ def create_patient(patient : patient):
 
     save_data(data)
 
-    return JSONResponse(status_code=201, content={'message':'patients created sucessfully'})
+ 
