@@ -16,7 +16,7 @@ RUN pip install -r requirements.txt
 #copy
 COPY . /main
 
-#port 
+#port F
 
 EXPOSE 8000
 
